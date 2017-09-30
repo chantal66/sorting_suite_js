@@ -1,0 +1,7 @@
+{
+  "name": "sorting_suite_js",
+  "version": "0.0.1",
+  "dependencies": {
+    "chai": "latest"
+  }
+}
