@@ -1,4 +1,4 @@
-// let pry = require('pryjs');
+
 const assert = require('chai').assert;
 const insertionSort = require('../insertionSort');
 
